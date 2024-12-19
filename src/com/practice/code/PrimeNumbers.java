@@ -2,6 +2,8 @@ package com.practice.code;
 
 public class PrimeNumbers {
 
+		//Prime Numbers
+
 		public static void main(String[] args) {
 			System.out.println("Prime numbers between 1 and 20 are:");
 			for (int i = 1; i <= 20; i++) {
