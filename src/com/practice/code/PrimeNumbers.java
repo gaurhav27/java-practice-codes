@@ -9,6 +9,7 @@ public class PrimeNumbers {
 			for (int i = 1; i <= 20; i++) {
 				if (isPrime(i)) {
 					System.out.print(i + " ");
+					System.out.println("Prime Numbers!!");
 				}
 			}
 		}
