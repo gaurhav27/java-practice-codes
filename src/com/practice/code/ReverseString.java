@@ -9,8 +9,10 @@ public class ReverseString {
 		String reversedArray = "";
 		String reversed = "";
 
-		//??
-		//Didn't declare reversedString but still it worked but it's not working if we are not declaring reversedArray and reversed
+		//      ??      Query       ??      //
+		//Didn't declare reversedString but still it worked, but it's not working if we are not declaring reversedArray and reversed!!
+		//When to initialize a variable and when to not?
+		//split(regex: "") how it worked for sentence also?
 
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Please enter the String you want to reverse: ");
